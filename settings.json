@@ -6,16 +6,16 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "hugo45151.aternos.me",
+    "port": 22485,
+    "version": "26.1.2"
   },
 
   "position": {
     "enabled": false,
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "x": 5,
+    "y": -57,
+    "z": -177
   },
 
   "utils": {
@@ -43,7 +43,7 @@
     },
 
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 5000
   }
 }
